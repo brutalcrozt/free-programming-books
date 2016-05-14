@@ -713,9 +713,9 @@
 
 ### Arduino
 
-* [Arduino Programming Notebook](http://www.lulu.com/shop/brian-evans/arduino-programming-notebook/ebook/product-18598708.html) - Brian Evans
+* [Arduino Programming Notebook](http://www.lulu.com/shop/brian-evans/arduino-programming-notebook/ebook/product-18598708.html) - Brian Evans September 2008
 * [Introduction to Arduino](http://playground.arduino.cc/Main/ManualsAndCurriculum)
-* [Introduction to Arduino : A piece of cake!](http://www.introtoarduino.com) - Alan G. Smith
+* [Introduction to Arduino : A piece of cake!](http://www.introtoarduino.com) - Alan G. Smith September 2011
 
 
 ### ASP.NET MVC
